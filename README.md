@@ -11,7 +11,7 @@ that contributes to the success of people, organizations and society.
 - I'm currently open to work as a junior web developer.
 - I have recently graduated from Ironhack's Fullstack Web Developer program.
 - My goal is to work as a fullstack web developer and eventually engage in exciting fullstack projects.
-- Currently, I'm exploring typescript and Nest.js to enhance my skill set. 
+- Currently, I'm exploring `typescript` and `Nest.js` to enhance my skill set. 
   
 ## ✨ Fun Facts
 - I am originally from South Korea. 🇰🇷
