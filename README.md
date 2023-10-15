@@ -1,4 +1,4 @@
-### <code style="color : red">Hey, I am Alice 👋</code> 
+### <code style="color : fuchsia">Hey, I am Alice 👋</code> 
 
 
 
