@@ -11,7 +11,7 @@ that contributes to the success of people, organizations and society.
 - I'm currently open to work as a junior web developer.
 - I have recently graduated from Ironhack's Fullstack Web Developer program.
 - My goal is to work as a fullstack web developer and eventually engage in exciting fullstack projects.
-- Currently, I'm exploring typescript and Nest.js to enhance my skill set.
+- Currently, I'm exploring typescript and Nest.js to enhance my skill set. 
   
 ## ✨ Fun Facts
 - I am originally from South Korea. 🇰🇷
@@ -27,7 +27,7 @@ You can always reach me via LinkedIn.
 I am open to new opportunities, collaboration, or just deep-talk about codes and industry trends. 
 <br>
 
-> Text that is a quote
+
 
 <!--
 **virgoeun/virgoeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,4 +42,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+> Text that is a quote
 -->
