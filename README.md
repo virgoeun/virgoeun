@@ -3,7 +3,7 @@
 I'm a web developer based in Berlin, Germany. 🐻 <br> I am passionate about crafting digital experiences,
 that contributes to the success of people, organizations and society. 
 
-- Check out my [website](virgoeun.tech) to learn more about me.
+- Check out my [website](https://www.virgoeun.tech/) to learn more about me.
 - Explore my [Linkedin] to connect with me and stay updated with my journey as a junior web developer.
 - Check the Linkedin posts about my insights and learnings in programming. 
 
