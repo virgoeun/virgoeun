@@ -7,19 +7,18 @@ that contributes to the success of people, organizations and society.
 - Explore my [Linkedin](https://www.linkedin.com/in/virgoeun/) to connect with me and stay updated with my journey as a junior web developer.
 - Check the Linkedin posts about my insights and learnings in programming. 
 
-<br> <br>
+<br>
 ## 🚀 Current Endeavors 
 - I'm currently working as a fullstack developer in Germany, where my journey involves both building and learning. Here's what I'm currently focused on:
-
 - I'm engaged in exciting fullstack projects.
 - I'm exploring Nest.js to enhance my skill set.
 - I'm an early riser, always driven and constantly learning in the tech world.
-<br> <br>
+<br> 
 ## 😎 Fun Facts
 I have Barre Teaching Certificate - and love all kinds of workouts.
 Html was my first programming language.
 I am far from a girly-type but #Pink 💝 is my Color
-<br> <br>
+<br> 
 ## 📫 Contact
 You can always reach me via LinkedIn.
 <br> <br>
