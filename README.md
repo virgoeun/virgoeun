@@ -21,13 +21,12 @@ that contributes to the success of people, organizations and society.
 - I am far from a girly-type but #Pink 💝 is my Color.
 - My current VCS code theme is Pink-Cat-Boo Theme 🐈‍⬛ 
 
-## 📫 Contact
+## 📫 Let's connect! 💫
 You can always reach me via LinkedIn.
 <br> <br>
 I am open to new opportunities, collaboration, or just deep-talk about codes and industry trends. 
 <br>
-Let's connect! 💫
-<br> <br>
+
 > Text that is a quote
 
 <!--
