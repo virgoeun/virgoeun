@@ -7,13 +7,15 @@ that contributes to the success of people, organizations and society.
 - Explore my [Linkedin](https://www.linkedin.com/in/virgoeun/) to connect with me and stay updated with my journey as a junior web developer.
 - Check the Linkedin posts about my insights and learnings in programming.
   
-## 🚀 Current Endeavors 
+## 🔭 Current Endeavors 
 - I'm currently open to work as a junior web developer.
 - I have recently graduated from Ironhack's Fullstack Web Developer program.
 - My goal is to work as a fullstack web developer and eventually engage in exciting fullstack projects.
 - Currently, I'm exploring typescript and Nest.js to enhance my skill set.
   
-## 😎 Fun Facts
+## ✨ Fun Facts
+- I am originally from South Korea. 🇰🇷
+- Germany is my 4th foreign country where I have resided and I love it! 🥨 
 - I have Barre Teaching Certificate - and love all kinds of workouts.
 - Html was my first programming language.
 - I am far from a girly-type but #Pink 💝 is my Color.
