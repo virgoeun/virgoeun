@@ -1,6 +1,6 @@
 ### <span style="color : fuchsia">Hey, I am Alice 👋</span> 
 
-I'm a web developer based in Berlin, Germany. <br> I am passionate about crafting digital experiences,
+I'm a web developer based in Berlin, Germany. 🐻 <br> I am passionate about crafting digital experiences,
 that contributes to the success of people, organizations and society. 
 
 - Check out my [website](virgoeun.tech) to learn more about me.
