@@ -1,6 +1,6 @@
 ### <span style="color : fuchsia">Hey, I am Alice 👋</span> 
 
-I'm a web developer & professiona markter in Saas/UCaas industry. Currently I am based in Berlin, Germany. 🐻 <br> I am passionate about crafting digital experiences,
+I'm a web developer & professiona markter in SaaS/UCaaS industry. Currently I am based in Berlin, Germany. 🐻 <br> I am passionate about crafting digital experiences,
 that contributes to the success of people, organizations and society. 
 <br> 
 - Check out my [Website](https://www.virgoeun.tech/) to learn more about me.
@@ -10,16 +10,15 @@ that contributes to the success of people, organizations and society.
 ## 🔭 Current Endeavors 
 - I'm currently open to work as a junior web developer.
 - I have recently graduated from Ironhack's Fullstack Web Developer program.
-- My goal is to work as a fullstack web developer and eventually engage in exciting fullstack projects.
+- My goal is to work as a Tech-Product development/Marketing Manager, engaging in exciting development projects, collaborating IT, marketing, and external stakeholders.
 - Currently, I'm exploring `typescript` and `Nest.js` to enhance my skill set. 
   
 ## ✨ Fun Facts
 - I am originally from South Korea. 🇰🇷
 - Germany is my 4th foreign country where I have resided and I love it! 🥨 
-- I have Barre Teaching Certificate - and love all kinds of workouts.
-- Html was my first programming language.
+- I have Barre/Yoga Teaching Certificate - and love all kinds of workouts.
+- At the same time, I am passionate about maintaining sound mental health. 
 - I am far from a girly-type but #Pink 💝 is my Color.
-- My current VCS code theme is Pink-Cat-Boo Theme 🐈‍⬛ 
 
 ## 📫 Let's connect! 💫
 You can always reach me via LinkedIn.
