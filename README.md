@@ -8,7 +8,7 @@ that contributes to the success of people, organizations and society.
 - Check the Linkedin posts about my insights and learnings in programming.
   
 ## 🔭 Current Endeavors 
-- Check my latest React.js application [My Zodiac Finder](myzodiac-sign](https://my-zodiac-sign.onrender.com/)) 🐯🐍🐖🐴
+- Check my latest React.js application [My Zodiac Finder](myzodiac-sign](https://my-zodiac-sign.onrender.com/) 🐯🐍🐖🐴
 - I'm currently open to work as a junior web developer.
 - I have recently graduated from Ironhack's Fullstack Web Developer program.
 - My goal is to work as a Tech-Product development/Marketing Manager, engaging in exciting development projects, collaborating IT, marketing, and external stakeholders.
